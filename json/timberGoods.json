@@ -1,0 +1,20 @@
+{
+    "3022Д-8114041" : {
+        "name" : "Брус",
+        "vendor_code" : "3022Д-8114041",
+        "cost" : 22.54,
+        "image" : "images/timber.png"
+    },
+    "1520-2801015" : {
+        "name" : "Брус",
+        "vendor_code" : "1520-2801015",
+        "cost" : 143.4,
+        "image" : "images/timber.png"
+    },
+    "1321-2801015" : {
+        "name" : "Брус",
+        "vendor_code" : "1321-2801015",
+        "cost" : 266.18,
+        "image" : "images/timber.png"
+    }
+}

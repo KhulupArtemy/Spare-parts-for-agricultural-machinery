@@ -1,0 +1,26 @@
+{
+    "1021-4803158" : {
+        "name" : "Переходник",
+        "vendor_code" : "1021-4803158",
+        "cost" : 1.27,
+        "image" : "images/adapter.png"
+    },
+    "70-3801190" : {
+        "name" : "Переходник",
+        "vendor_code" : "70-3801190",
+        "cost" : 1.88,
+        "image" : "images/adapter.png"
+    },
+    "1025-8114016" : {
+        "name" : "Переходник",
+        "vendor_code" : "1025-8114016",
+        "cost" : 2.19,
+        "image" : "images/adapter.png"
+    },
+    "Ф80-3407200" : {
+        "name" : "Переходник",
+        "vendor_code" : "Ф80-3407200",
+        "cost" : 2.78,
+        "image" : "images/adapter.png"
+    }
+}

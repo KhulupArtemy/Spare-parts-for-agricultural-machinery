@@ -1,0 +1,38 @@
+{
+    "70-1601076" : {
+        "name" : "Кольцо",
+        "vendor_code" : "70-1601076",
+        "cost" : 0.08,
+        "image" : "images/ring.png"
+    },
+    "Н50-4202146" : {
+        "name" : "Кольцо",
+        "vendor_code" : "Н50-4202146",
+        "cost" : 0.24,
+        "image" : "images/ring.png"
+    },
+    "142-4605431" : {
+        "name" : "Кольцо",
+        "vendor_code" : "142-4605431",
+        "cost" : 0.3,
+        "image" : "images/ring.png"
+    },
+    "70-1601333" : {
+        "name" : "Кольцо",
+        "vendor_code" : "70-1601333",
+        "cost" : 0.3,
+        "image" : "images/ring.png"
+    },
+    "80-8104039" : {
+        "name" : "Кольцо",
+        "vendor_code" : "80-8104039",
+        "cost" : 0.3,
+        "image" : "images/ring.png"
+    },
+    "70-2409033-Б" : {
+        "name" : "Кольцо",
+        "vendor_code" : "70-2409033-Б",
+        "cost" : 0.44,
+        "image" : "images/ring.png"
+    }
+}

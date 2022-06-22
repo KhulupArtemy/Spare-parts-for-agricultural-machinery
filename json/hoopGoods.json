@@ -1,0 +1,26 @@
+{
+    "3522-2601041" : {
+        "name" : "Бугель",
+        "vendor_code" : "3522-2601041",
+        "cost" : 84.95,
+        "image" : "images/hoop.png"
+    },
+    "3522-2601041-Б" : {
+        "name" : "Бугель",
+        "vendor_code" : "3522-2601041-Б",
+        "cost" : 97.76,
+        "image" : "images/hoop.png"
+    },
+    "3522-2601031-Б" : {
+        "name" : "Бугель",
+        "vendor_code" : "3522-2601031-Б",
+        "cost" : 112.91,
+        "image" : "images/hoop.png"
+    },
+    "3522-2601030" : {
+        "name" : "Бугель",
+        "vendor_code" : "3522-2601030",
+        "cost" : 157.7,
+        "image" : "images/hoop.png"
+    }
+}

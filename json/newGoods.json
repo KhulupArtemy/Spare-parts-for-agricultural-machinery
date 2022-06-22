@@ -1,0 +1,26 @@
+{
+    "80-1101010" : {
+        "name" : "Бак",
+        "vendor_code" : "80-1101010",
+        "cost" : 58.42,
+        "image" : "images/tub_new.png"
+    },
+    "1221-1802036" : {
+        "name" : "Барабан",
+        "vendor_code" : "1221-1802036",
+        "cost" : 66.02,
+        "image" : "images/barrel_new.png"
+    },
+    "822-1602120" : {
+        "name" : "Бачок",
+        "vendor_code" : "822-1602120",
+        "cost" : 13.52,
+        "image" : "images/tank_new.png"
+    },
+    "1520-2801015" : {
+        "name" : "Брус",
+        "vendor_code" : "1520-2801015",
+        "cost" : 143.4,
+        "image" : "images/timber_new.png"
+    }
+} 

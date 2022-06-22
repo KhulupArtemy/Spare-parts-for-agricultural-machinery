@@ -1,0 +1,20 @@
+{
+    "1221-1802036" : {
+        "name" : "Барабан",
+        "vendor_code" : "1221-1802036",
+        "cost" : 66.02,
+        "image" : "images/barrel.png"
+    },
+    "2522-1802030-Б" : {
+        "name" : "Барабан",
+        "vendor_code" : "2522-1802030-Б",
+        "cost" : 383.53,
+        "image" : "images/barrel.png"
+    },
+    "2822-1701372-Б" : {
+        "name" : "Барабан",
+        "vendor_code" : "2822-1701372-Б",
+        "cost" : 683.61,
+        "image" : "images/barrel.png"
+    }
+} 

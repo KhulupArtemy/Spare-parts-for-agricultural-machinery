@@ -1,0 +1,26 @@
+{
+    "70-4803022" : {
+        "name" : "Втулка",
+        "vendor_code" : "70-4803022",
+        "cost" : 0.11,
+        "image" : "images/spigot.png"
+    },
+    "70-8405114" : {
+        "name" : "Втулка",
+        "vendor_code" : "70-8405114",
+        "cost" : 0.19,
+        "image" : "images/spigot.png"
+    },
+    "90-8400056" : {
+        "name" : "Втулка",
+        "vendor_code" : "90-8400056",
+        "cost" : 0.19,
+        "image" : "images/spigot.png"
+    },
+    "90-8400056-01" : {
+        "name" : "Втулка",
+        "vendor_code" : "90-8400056-01",
+        "cost" : 0.19,
+        "image" : "images/spigot.png"
+    }
+}

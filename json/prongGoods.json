@@ -1,0 +1,26 @@
+{
+    "А20-213-А" : {
+        "name" : "Вилка",
+        "vendor_code" : "А20-213-А",
+        "cost" : 1.06,
+        "image" : "images/prong.png"
+    },
+    "50-3502203" : {
+        "name" : "Вилка",
+        "vendor_code" : "50-3502203",
+        "cost" : 1.4,
+        "image" : "images/prong.png"
+    },
+    "952-1802012" : {
+        "name" : "Вилка",
+        "vendor_code" : "952-1802012",
+        "cost" : 1.8,
+        "image" : "images/prong.png"
+    },
+    "70-3514022" : {
+        "name" : "Вилка",
+        "vendor_code" : "70-3514022",
+        "cost" : 2.75,
+        "image" : "images/prong.png"
+    }
+}

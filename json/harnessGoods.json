@@ -1,0 +1,32 @@
+{
+    "1221-3724825" : {
+        "name" : "Жгут",
+        "vendor_code" : "1221-3724825",
+        "cost" : 9.3,
+        "image" : "images/harness.png"
+    },
+    "80-3724005" : {
+        "name" : "Жгут",
+        "vendor_code" : "80-3724005",
+        "cost" : 11.16,
+        "image" : "images/harness.png"
+    },
+    "1522-3724850" : {
+        "name" : "Жгут",
+        "vendor_code" : "1522-3724850",
+        "cost" : 15.4,
+        "image" : "images/harness.png"
+    },
+    "922-3724850" : {
+        "name" : "Жгут",
+        "vendor_code" : "922-3724850",
+        "cost" : 15.44,
+        "image" : "images/harness.png"
+    },
+    "3022-3724824" : {
+        "name" : "Жгут",
+        "vendor_code" : "3022-3724824",
+        "cost" : 15.76,
+        "image" : "images/harness.png"
+    }
+}

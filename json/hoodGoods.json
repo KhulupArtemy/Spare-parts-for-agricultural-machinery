@@ -1,0 +1,26 @@
+{
+    "1221-8402020" : {
+        "name" : "Капот",
+        "vendor_code" : "1221-8402020",
+        "cost" : 119.94,
+        "image" : "images/hood.png"
+    },
+    "80Х-8402020" : {
+        "name" : "Капот",
+        "vendor_code" : "80Х-8402020",
+        "cost" : 120.04,
+        "image" : "images/hood.png"
+    },
+    "80-8402020-01" : {
+        "name" : "Капот",
+        "vendor_code" : "80-8402020-01",
+        "cost" : 130.3,
+        "image" : "images/hood.png"
+    },
+    "90-8402020-07" : {
+        "name" : "Капот",
+        "vendor_code" : "90-8402020-07",
+        "cost" : 178.95,
+        "image" : "images/hood.png"
+    }
+}

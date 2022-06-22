@@ -1,0 +1,20 @@
+{
+    "80-6708020-Б" : {
+        "name" : "Дверь",
+        "vendor_code" : "80-6708020-Б",
+        "cost" : 68.15,
+        "image" : "images/door.png"
+    },
+    "80-6708020-Б-01" : {
+        "name" : "Дверь",
+        "vendor_code" : "80-6708020-Б-01",
+        "cost" : 70.15,
+        "image" : "images/door.png"
+    },
+    "80-6708010-Б" : {
+        "name" : "Дверь",
+        "vendor_code" : "80-6708010-Б",
+        "cost" : 107.45,
+        "image" : "images/door.png"
+    }
+}

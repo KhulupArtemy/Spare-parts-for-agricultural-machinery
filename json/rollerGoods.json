@@ -1,0 +1,32 @@
+{
+    "80В-1108360" : {
+        "name" : "Вал",
+        "vendor_code" : "80В-1108360",
+        "cost" : 3.01,
+        "image" : "images/roller.png"
+    },
+    "70-4607250" : {
+        "name" : "Вал",
+        "vendor_code" : "70-4607250",
+        "cost" : 4.74,
+        "image" : "images/roller.png"
+    },
+    "85-1601215" : {
+        "name" : "Вал",
+        "vendor_code" : "85-1601215",
+        "cost" : 6.45,
+        "image" : "images/roller.png"
+    },
+    "80-4607220" : {
+        "name" : "Вал",
+        "vendor_code" : "80-4607220",
+        "cost" : 6.93,
+        "image" : "images/roller.png"
+    },
+    "80-4607250" : {
+        "name" : "Вал",
+        "vendor_code" : "80-4607250",
+        "cost" : 7.4,
+        "image" : "images/roller.png"
+    }
+}

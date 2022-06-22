@@ -1,0 +1,20 @@
+{
+    "822-1602120" : {
+        "name" : "Бачок",
+        "vendor_code" : "822-1602120",
+        "cost" : 13.52,
+        "image" : "images/tank.png"
+    },
+    "822-3503090" : {
+        "name" : "Бачок",
+        "vendor_code" : "822-3503090",
+        "cost" : 14.52,
+        "image" : "images/tank.png"
+    },
+    "822-3503090-01" : {
+        "name" : "Бачок",
+        "vendor_code" : "822-3503090-01",
+        "cost" : 18.52,
+        "image" : "images/tank.png"
+    }
+}

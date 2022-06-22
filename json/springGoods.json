@@ -1,0 +1,32 @@
+{
+    "70-3710027" : {
+        "name" : "Пружина",
+        "vendor_code" : "70-3710027",
+        "cost" : 0.12,
+        "image" : "images/spring.png"
+    },
+    "80-6708618" : {
+        "name" : "Пружина",
+        "vendor_code" : "80-6708618",
+        "cost" : 0.28,
+        "image" : "images/spring.png"
+    },
+    "2522-1701395" : {
+        "name" : "Пружина",
+        "vendor_code" : "2522-1701395",
+        "cost" : 0.3,
+        "image" : "images/spring.png"
+    },
+    "220-3502032" : {
+        "name" : "Пружина",
+        "vendor_code" : "220-3502032",
+        "cost" : 0.36,
+        "image" : "images/spring.png"
+    },
+    "05-1701375-А" : {
+        "name" : "Пружина",
+        "vendor_code" : "05-1701375-А",
+        "cost" : 0.43,
+        "image" : "images/spring.png"
+    }
+}

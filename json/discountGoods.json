@@ -1,0 +1,30 @@
+{
+    "80-6702330" : {
+        "name" : "Боковина",
+        "vendor_code" : "80-6702330",
+        "old_price" : 9.59,
+        "cost" : 7.99,
+        "image" : "images/sidewall.png"
+    },
+    "3522-2601030" : {
+        "name" : "Бугель",
+        "vendor_code" : "3522-2601030",
+        "old_price" : 189.24,
+        "cost" : 157.7,
+        "image" : "images/hoop.png"
+    },
+    "1221-2401019" : {
+        "name" : "Валик",
+        "vendor_code" : "1221-2401019",
+        "old_price" : 5.28,
+        "cost" : 4.4,
+        "image" : "images/roll.png"
+    },
+    "70-4607250" : {
+        "name" : "Вал",
+        "vendor_code" : "70-4607250",
+        "old_price" : 5.69,
+        "cost" : 4.74,
+        "image" : "images/roller.png"
+    }
+}

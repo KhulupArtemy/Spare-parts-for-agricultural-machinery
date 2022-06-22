@@ -1,0 +1,26 @@
+{
+    "80-6702325" : {
+        "name" : "Боковина",
+        "vendor_code" : "80-6702325",
+        "cost" : 5.35,
+        "image" : "images/sidewall.png"
+    },
+    "80-6702335" : {
+        "name" : "Боковина",
+        "vendor_code" : "80-6702335",
+        "cost" : 6.30,
+        "image" : "images/sidewall.png"
+    },
+    "80-6702330" : {
+        "name" : "Боковина",
+        "vendor_code" : "80-6702330",
+        "cost" : 7.99,
+        "image" : "images/sidewall.png"
+    },
+    "80-6702320" : {
+        "name" : "Боковина",
+        "vendor_code" : "80-6702320",
+        "cost" : 9.14,
+        "image" : "images/sidewall.png"
+    }
+}

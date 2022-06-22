@@ -1,0 +1,32 @@
+{
+    "Ф80-3407720" : {
+        "name" : "Маслопровод",
+        "vendor_code" : "Ф80-3407720",
+        "cost" : 2.1,
+        "image" : "images/oil-line.png"
+    },
+    "70-1405117-Б" : {
+        "name" : "Маслопровод",
+        "vendor_code" : "70-1405117-Б",
+        "cost" : 3,
+        "image" : "images/oil-line.png"
+    },
+    "900-1405130" : {
+        "name" : "Маслопровод",
+        "vendor_code" : "900-1405130",
+        "cost" : 3.05,
+        "image" : "images/oil-line.png"
+    },
+    "1522-2407325" : {
+        "name" : "Маслопровод",
+        "vendor_code" : "1522-2407325",
+        "cost" : 3.13,
+        "image" : "images/oil-line.png"
+    },
+    "70-1405109" : {
+        "name" : "Маслопровод",
+        "vendor_code" : "70-1405109",
+        "cost" : 3.3,
+        "image" : "images/oil-line.png"
+    }
+}

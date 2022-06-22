@@ -1,0 +1,32 @@
+{
+    "70-1108260" : {
+        "name" : "Валик",
+        "vendor_code" : "70-1108260",
+        "cost" : 2.3,
+        "image" : "images/roll.png"
+    },
+    "1221-2401019" : {
+        "name" : "Валик",
+        "vendor_code" : "1221-2401019",
+        "cost" : 4.4,
+        "image" : "images/roll.png"
+    },
+    "74-1723044-Б1" : {
+        "name" : "Валик",
+        "vendor_code" : "74-1723044-Б1",
+        "cost" : 4.73,
+        "image" : "images/roll.png"
+    },
+    "74-1723044-Б1-01" : {
+        "name" : "Валик",
+        "vendor_code" : "74-1723044-Б1-01",
+        "cost" : 5.21,
+        "image" : "images/roll.png"
+    },
+    "70-3507060-03" : {
+        "name" : "Валик",
+        "vendor_code" : "70-3507060-03",
+        "cost" : 5.8,
+        "image" : "images/roll.png"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "600-8402068" : {
+        "name" : "Опора",
+        "vendor_code" : "600-8402068",
+        "cost" : 0.61,
+        "image" : "images/prop.png"
+    },
+    "600-8402067" : {
+        "name" : "Опора",
+        "vendor_code" : "600-8402067",
+        "cost" : 0.62,
+        "image" : "images/prop.png"
+    },
+    "80-8402067-В" : {
+        "name" : "Опора",
+        "vendor_code" : "80-8402067-В",
+        "cost" : 1.05,
+        "image" : "images/prop.png"
+    },
+    "80-8402067-В-01" : {
+        "name" : "Опора",
+        "vendor_code" : "80-8402067-В-01",
+        "cost" : 1.05,
+        "image" : "images/prop.png"
+    }
+}

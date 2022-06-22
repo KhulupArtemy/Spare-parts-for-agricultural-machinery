@@ -1,0 +1,38 @@
+{
+    "80-8400014" : {
+        "name" : "Рычаг",
+        "vendor_code" : "80-8400014",
+        "cost" : 0.07,
+        "image" : "images/arm.png"
+    },
+    "85-3710032" : {
+        "name" : "Рычаг",
+        "vendor_code" : "85-3710032",
+        "cost" : 0.22,
+        "image" : "images/arm.png"
+    },
+    "80-6708616" : {
+        "name" : "Рычаг",
+        "vendor_code" : "80-6708616",
+        "cost" : 0.75,
+        "image" : "images/arm.png"
+    },
+    "80-4616040" : {
+        "name" : "Рычаг",
+        "vendor_code" : "80-4616040",
+        "cost" : 1.06,
+        "image" : "images/arm.png"
+    },
+    "80-6707041" : {
+        "name" : "Рычаг",
+        "vendor_code" : "80-6707041",
+        "cost" : 1.07,
+        "image" : "images/arm.png"
+    },
+    "70-3401083" : {
+        "name" : "Рычаг",
+        "vendor_code" : "70-3401083",
+        "cost" : 1.11,
+        "image" : "images/arm.png"
+    }
+}

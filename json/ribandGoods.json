@@ -1,0 +1,26 @@
+{
+    "80-6707081" : {
+        "name" : "Лента",
+        "vendor_code" : "80-6707081",
+        "cost" : 0.35,
+        "image" : "images/riband.png"
+    },
+    "85-1101080" : {
+        "name" : "Лента",
+        "vendor_code" : "85-1101080",
+        "cost" : 2.22,
+        "image" : "images/riband.png"
+    },
+    "70-1101230" : {
+        "name" : "Лента",
+        "vendor_code" : "70-1101230",
+        "cost" : 2.26,
+        "image" : "images/riband.png"
+    },
+    "3022В-1311015" : {
+        "name" : "Лента",
+        "vendor_code" : "3022В-1311015",
+        "cost" : 7.6,
+        "image" : "images/riband.png"
+    }
+}

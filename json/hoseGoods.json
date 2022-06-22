@@ -1,0 +1,32 @@
+{
+    "822-8101021-01" : {
+        "name" : "Шланг",
+        "vendor_code" : "822-8101021-01",
+        "cost" : 0.33,
+        "image" : "images/hose.png"
+    },
+    "1221-3407012-01" : {
+        "name" : "Шланг",
+        "vendor_code" : "1221-3407012-01",
+        "cost" : 0.51,
+        "image" : "images/hose.png"
+    },
+    "1523-4607063" : {
+        "name" : "Шланг",
+        "vendor_code" : "1523-4607063",
+        "cost" : 0.53,
+        "image" : "images/hose.png"
+    },
+    "70-1405013" : {
+        "name" : "Шланг",
+        "vendor_code" : "70-1405013",
+        "cost" : 0.55,
+        "image" : "images/hose.png"
+    },
+    "950-4802062" : {
+        "name" : "Шланг",
+        "vendor_code" : "950-4802062",
+        "cost" : 0.66,
+        "image" : "images/hose.png"
+    }
+}

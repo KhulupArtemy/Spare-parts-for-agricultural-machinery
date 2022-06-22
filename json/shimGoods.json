@@ -1,0 +1,38 @@
+{
+    "86-1804023" : {
+        "name" : "Шайба",
+        "vendor_code" : "86-1804023",
+        "cost" : 0.02,
+        "image" : "images/shim.png"
+    },
+    "80-3401013" : {
+        "name" : "Шайба",
+        "vendor_code" : "80-3401013",
+        "cost" : 0.03,
+        "image" : "images/shim.png"
+    },
+    "80-6708961" : {
+        "name" : "Шайба",
+        "vendor_code" : "80-6708961",
+        "cost" : 0.04,
+        "image" : "images/shim.png"
+    },
+    "70-4607144" : {
+        "name" : "Шайба",
+        "vendor_code" : "70-4607144",
+        "cost" : 0.05,
+        "image" : "images/shim.png"
+    },
+    "50-1108148" : {
+        "name" : "Шайба",
+        "vendor_code" : "50-1108148",
+        "cost" : 0.06,
+        "image" : "images/shim.png"
+    },
+    "50-3401092" : {
+        "name" : "Шайба",
+        "vendor_code" : "50-3401092",
+        "cost" : 0.06,
+        "image" : "images/shim.png"
+    }
+}

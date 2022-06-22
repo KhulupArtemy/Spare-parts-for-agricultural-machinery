@@ -1,0 +1,32 @@
+{
+    "80-8401070" : {
+        "name" : "Решетка",
+        "vendor_code" : "80-8401070",
+        "cost" : 7.59,
+        "image" : "images/lattice.png"
+    },
+    "80-8401080" : {
+        "name" : "Решетка",
+        "vendor_code" : "80-8401080",
+        "cost" : 7.8,
+        "image" : "images/lattice.png"
+    },
+    "80-8401080-Б" : {
+        "name" : "Решетка",
+        "vendor_code" : "80-8401080-Б",
+        "cost" : 7.83,
+        "image" : "images/lattice.png"
+    },
+    "90-8401020" : {
+        "name" : "Решетка",
+        "vendor_code" : "90-8401020",
+        "cost" : 8.49,
+        "image" : "images/lattice.png"
+    },
+    "1523-8402318" : {
+        "name" : "Решетка",
+        "vendor_code" : "1523-8402318",
+        "cost" : 8.89,
+        "image" : "images/lattice.png"
+    }
+}

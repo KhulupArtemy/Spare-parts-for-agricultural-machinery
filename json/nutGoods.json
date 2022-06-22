@@ -1,0 +1,38 @@
+{
+    "1525-2303027" : {
+        "name" : "Гайка",
+        "vendor_code" : "1525-2303027",
+        "cost" : 0.36,
+        "image" : "images/nut.png"
+    },
+    "1321-2707013" : {
+        "name" : "Гайка",
+        "vendor_code" : "1321-2707013",
+        "cost" : 0.47,
+        "image" : "images/nut.png"
+    },
+    "Д80-4607212" : {
+        "name" : "Гайка",
+        "vendor_code" : "Д80-4607212",
+        "cost" : 0.51,
+        "image" : "images/nut.png"
+    },
+    "70-3003032" : {
+        "name" : "Гайка",
+        "vendor_code" : "70-3003032",
+        "cost" : 0.6,
+        "image" : "images/nut.png"
+    },
+    "85-3407113" : {
+        "name" : "Гайка",
+        "vendor_code" : "85-3407113",
+        "cost" : 0.61,
+        "image" : "images/nut.png"
+    },
+    "1025-3506623" : {
+        "name" : "Гайка",
+        "vendor_code" : "1025-3506623",
+        "cost" : 0.76,
+        "image" : "images/nut.png"
+    }
+}

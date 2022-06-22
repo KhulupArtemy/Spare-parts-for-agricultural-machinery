@@ -1,0 +1,38 @@
+{
+    "70-1601109-01" : {
+        "name" : "Палец",
+        "vendor_code" : "70-1601109-01",
+        "cost" : 0.27,
+        "image" : "images/finger.png"
+    },
+    "80М-2409002" : {
+        "name" : "Палец",
+        "vendor_code" : "80М-2409002",
+        "cost" : 0.5,
+        "image" : "images/finger.png"
+    },
+    "822-6700011-Б" : {
+        "name" : "Палец",
+        "vendor_code" : "822-6700011-Б",
+        "cost" : 0.69,
+        "image" : "images/finger.png"
+    },
+    "80-4616031" : {
+        "name" : "Палец",
+        "vendor_code" : "80-4616031",
+        "cost" : 0.7,
+        "image" : "images/finger.png"
+    },
+    "822-6700011-Б-01" : {
+        "name" : "Палец",
+        "vendor_code" : "822-6700011-Б-01",
+        "cost" : 0.7,
+        "image" : "images/finger.png"
+    },
+    "822-6700011" : {
+        "name" : "Палец",
+        "vendor_code" : "822-6700011",
+        "cost" : 0.77,
+        "image" : "images/finger.png"
+    }
+}

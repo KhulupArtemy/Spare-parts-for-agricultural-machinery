@@ -1,0 +1,38 @@
+{
+    "1520-2308011" : {
+        "name" : "Винт",
+        "vendor_code" : "1520-2308011",
+        "cost" : 0.31,
+        "image" : "images/screw.png"
+    },
+    "70-4616016" : {
+        "name" : "Винт",
+        "vendor_code" : "70-4616016",
+        "cost" : 0.39,
+        "image" : "images/screw.png"
+    },
+    "2522-6708975" : {
+        "name" : "Винт",
+        "vendor_code" : "2522-6708975",
+        "cost" : 0.55,
+        "image" : "images/screw.png"
+    },
+    "С90-4607026" : {
+        "name" : "Винт",
+        "vendor_code" : "С90-4607026",
+        "cost" : 0.41,
+        "image" : "images/screw.png"
+    },
+    "72-2308011" : {
+        "name" : "Винт",
+        "vendor_code" : "72-2308011",
+        "cost" : 0.47,
+        "image" : "images/screw.png"
+    },
+    "72-2308046" : {
+        "name" : "Винт",
+        "vendor_code" : "72-2308046",
+        "cost" : 0.53,
+        "image" : "images/screw.png"
+    }
+}

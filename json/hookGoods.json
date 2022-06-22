@@ -1,0 +1,26 @@
+{
+    "90-8402313" : {
+        "name" : "Зацеп",
+        "vendor_code" : "90-8402313",
+        "cost" : 0.67,
+        "image" : "images/hook.png"
+    },
+    "90-8402313-01" : {
+        "name" : "Зацеп",
+        "vendor_code" : "90-8402313-01",
+        "cost" : 0.67,
+        "image" : "images/hook.png"
+    },
+    "80-6105170-Б" : {
+        "name" : "Зацеп",
+        "vendor_code" : "80-6105170-Б",
+        "cost" : 1.48,
+        "image" : "images/hook.png"
+    },
+    "2522-6105170" : {
+        "name" : "Зацеп",
+        "vendor_code" : "2522-6105170",
+        "cost" : 1.63,
+        "image" : "images/hook.png"
+    }
+}

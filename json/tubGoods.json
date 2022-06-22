@@ -1,0 +1,32 @@
+{
+    "70-1101010-02" : {
+        "name" : "Бак",
+        "vendor_code" : "70-1101010-02",
+        "cost" : 55.07,
+        "image" : "images/tub.png"
+    },
+    "80-1101010" : {
+        "name" : "Бак",
+        "vendor_code" : "80-1101010",
+        "cost" : 58.42,
+        "image" : "images/tub.png"
+    },
+    "70-1101020-01" : {
+        "name" : "Бак",
+        "vendor_code" : "70-1101020-01",
+        "cost" : 63.95,
+        "image" : "images/tub.png"
+    },
+    "70-1101020" : {
+        "name" : "Бак",
+        "vendor_code" : "70-1101020",
+        "cost" : 66.90,
+        "image" : "images/tub.png"
+    },
+    "923-1101210" : {
+        "name" : "Бак",
+        "vendor_code" : "923-1101210",
+        "cost" : 188.70,
+        "image" : "images/tub.png"
+    }
+} 

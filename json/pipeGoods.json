@@ -1,0 +1,38 @@
+{
+    "80-1716051" : {
+        "name" : "Труба",
+        "vendor_code" : "80-1716051",
+        "cost" : 1.08,
+        "image" : "images/pipe.png"
+    },
+    "80-4608014" : {
+        "name" : "Труба",
+        "vendor_code" : "80-4608014",
+        "cost" : 1.78,
+        "image" : "images/pipe.png"
+    },
+    "2022-8700028-01" : {
+        "name" : "Труба",
+        "vendor_code" : "80-11010102022-8700028-01",
+        "cost" : 2.25,
+        "image" : "images/pipe.png"
+    },
+    "2022-8700028" : {
+        "name" : "Труба",
+        "vendor_code" : "2022-8700028",
+        "cost" : 2.46,
+        "image" : "images/pipe.png"
+    },
+    "1222-8700021" : {
+        "name" : "Труба",
+        "vendor_code" : "1222-8700021",
+        "cost" : 3.35,
+        "image" : "images/pipe.png"
+    },
+    "822-8201211" : {
+        "name" : "Труба",
+        "vendor_code" : "822-8201211",
+        "cost" : 3.85,
+        "image" : "images/pipe.png"
+    }
+}
