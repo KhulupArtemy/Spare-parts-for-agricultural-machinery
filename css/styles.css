@@ -1,0 +1,136 @@
+body{
+    background: #e2eed7;
+}
+
+.element {
+    all: unset;
+  }
+
+#header { /* Шапка сайта */
+	height: 120px;
+	font-size: 48px;
+	background: #e2eed7;
+	margin: 0px;
+}
+
+.registration-button{ /* Кнопка регистрации */
+    float: right;
+    margin-right: 20px;
+}
+
+.name-shadow-polka-dot { /* Имя сайта + Тень горошек */
+    margin-right: 550px;
+    padding-top: 20px;
+    
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    text-shadow: -5px -5px 0px #ee9207;
+    background: radial-gradient(#6e992a 1px, transparent 1px);
+    background-size: 4px 4px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: table;
+    margin: 0px auto;
+}
+
+#menu { /* Меню кнопок*/
+	height: 80px;
+	margin: 0px;
+}
+
+.menu_btn{
+    background: #6e992a;
+}
+
+button{
+    cursor: pointer; /* При наведении другой курсор*/
+    padding: 10px 50px;
+	margin-left: 25px;
+    height: 50px;
+    color: #fff;
+    background: #ebe4ca;
+    border: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+}
+
+button:hover{ /* При наведении*/
+    opacity: .80; /* Прозрачность*/
+    font-weight: bold; /* Шрифт*/
+    transform: scale(1.1);
+}
+
+.search-position{
+    margin-right: 200px;
+}
+
+img{
+	margin: -25px;
+	margin-left: 25px;
+    height: 50px;
+}
+
+input{
+    margin-top: 10px; /* Отступ сверху*/
+	margin-left: 25px;
+    height: 40px;
+    width: 400px;
+    padding-left: 10px;
+    border-radius: 20px/20px; /* Плавное скругление кнопок*/
+    border: none; /* Убрать рамку*/
+    font-size: 18px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+}
+
+.single-goods {
+    margin: 30px;
+    margin-top: 60px;
+    padding-right: 140px;
+    text-align: center;
+    font-size: 9px;
+    float: left;
+}
+
+.single-goods button{
+    width: 240px;
+    height: 280px;
+}
+
+.single-goods h4{
+    margin-top: 0px;
+}
+
+.single-goods img{
+    width: 160px;
+    height: 160px;
+    margin-left: -30px;
+    margin-top: -10px;
+}
+
+.single-goods p{
+    margin-top: 50px;
+}
+
+#main{ /* Основное содержимое */
+
+	height: 805px;
+    background: #ffff;
+    color: black;
+}
+
+.MainText{
+	font-size: 32px;
+	margin: 10%;
+	padding: 0px;
+}
+
+#footer{ 
+    background: #e2eed7;
+	height: 50px;
+	margin: 0px;
+}
+
+li {
+    display: inline;
+   }

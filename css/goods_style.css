@@ -1,0 +1,113 @@
+body{
+    background: #36acc4;
+}
+
+#header { /* Шапка сайта */
+	height: 120px;
+	font-size: 48px;
+	background: #36acc4;
+	margin: 0px;
+}
+
+.registration-button{ /* Кнопка регистрации */
+    float: right;
+    margin-right: 20px;
+}
+
+.name-shadow-polka-dot { /* Имя сайта + Тень горошек */
+    margin-right: 550px;
+    padding-top: 20px;
+    
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    text-shadow: -5px -5px 0px #5200a5;
+    background: radial-gradient(#ffffff 1px, transparent 1px);
+    background-size: 4px 4px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: table;
+    margin: 0px auto;
+}
+
+#menu { /* Меню кнопок*/
+	height: 80px;
+	margin: 0px;
+	background: #36acc4;
+}
+
+button{
+    cursor: pointer; /* При наведении другой курсор*/
+    padding: 10px 50px;
+	margin-left: 25px;
+    height: 50px;
+    color: #fff;
+    background: #5200a5;
+    border: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+}
+
+button:hover{ /* При наведении*/
+    opacity: .80; /* Прозрачность*/
+    font-weight: bold; /* Шрифт*/
+    transform: scale(1.1);
+}
+
+.search-position{
+    margin-right: 200px;
+}
+
+img{
+	margin: -25px;
+	margin-left: 25px;
+    height: 50px;
+}
+
+input{
+    margin-top: 10px; /* Отступ сверху*/
+	margin-left: 25px;
+    height: 40px;
+    width: 400px;
+    padding-left: 10px;
+    border-radius: 20px/20px; /* Плавное скругление кнопок*/
+    border: none; /* Убрать рамку*/
+    font-size: 18px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+}
+
+.single-goods {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    text-align: center;
+}
+
+.single-goods button{
+    display: block;
+    margin: 20px auto;
+}
+
+#main{ /* Основное содержимое */
+
+	height: 805px;
+	background-image: url(back.png);
+}
+
+.MainText{
+	font-size: 32px;
+	margin: 10%;
+	padding: 0px;
+}
+
+#footer{ 
+    background: #36acc4;
+	height: 50px;
+	margin: 0px;
+}
+
+li {
+    display: inline;
+   }
